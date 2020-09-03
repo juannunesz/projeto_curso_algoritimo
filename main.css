@@ -1,0 +1,28 @@
+
+/*  Botão verde  */
+
+.btn{
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    display: inline-block;
+    border-radius: 10px;
+}
+.btn-green{
+    background-color: lime;
+    color: white;
+    box-shadow: 0 5px 0 #006000;
+}
+.btn-green:hover{
+    background-color: #006000;
+    color: white;
+    box-shadow: 0 5px 0 #003f00;
+}
+.btn-green:active{
+    position: relative;
+    top: 2px;
+    box-shadow: none;
+}
