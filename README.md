@@ -1,2 +1,2 @@
-# Treino java e portugol
-### Esse projeto é sobre o curso de algoritomo e logica de programação
+# Java and Portol training
+### This project is about the course of algorithm and programming logic
